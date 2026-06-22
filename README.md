@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/maddyworkp-ui/Leetcode/tree/master/1768-merge-strings-alternately) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/maddyworkp-ui/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
